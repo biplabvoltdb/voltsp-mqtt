@@ -26,7 +26,7 @@ To run this demo successfully, ensure you have the following components set up:
 1. **VoltDB** (or Volt Active Data) running as a sink target with the appropriate schema to support the VoltSP pipeline.  
 2. An **MQTT Broker** (e.g. [EMQX](https://www.emqx.io/)) that can receive and forward MQTT messages.  
 3. An **MQTT Producer** that publishes data to the broker topic your pipeline subscribes to.  
-4. **Java+** for building and running the project.
+4. **Java** for building and running the project.
 
 ---
 
